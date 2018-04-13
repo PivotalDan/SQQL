@@ -1,0 +1,5 @@
+SELECT Name,Container_Platforms__c,Container_Platforms_Details__c,Legacy_Re_Platform__c,Legacy_Re_Platform_Details__c,Next_Gen_App_Dev__c,Next_Gen_App_Dev_Details__c,Security_Play__c,Security_Play_Details__c,Theater__c,Region__c FROM Account
+
+
+-scope to New England
+SELECT Name,Container_Platforms__c,Container_Platforms_Details__c,Legacy_Re_Platform__c,Legacy_Re_Platform_Details__c,Next_Gen_App_Dev__c,Next_Gen_App_Dev_Details__c,Security_Play__c,Security_Play_Details__c,Theater__c,Region__c             FROM Account
